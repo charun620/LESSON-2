@@ -5,5 +5,5 @@ function printHello(name) {
   
   console.log(printHello.name);
   
-  let result = printHello("Panwan !");
+  let result = printHello("ChRN !");
   console.log(result);
